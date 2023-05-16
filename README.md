@@ -1,0 +1,1 @@
+# singlestore-kai-for-mongodb-examples
