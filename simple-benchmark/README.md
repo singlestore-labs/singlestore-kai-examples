@@ -10,7 +10,7 @@ Results are discussed in this
 
 The benchmark requires NodeJS v16.18.0 or greater, and a MongoDB endpoint to
 test against. To create an endpoint for SingleStore Kai™ for MongoDB,
-[get started here](https://singlestore.com/cloud–trial/kai).
+[get started here](https://www.singlestore.com/cloud-trial/kai/).
 
 ## To Run
 
