@@ -26,7 +26,7 @@ The demo requires NodeJS v16.18.0 or greater.
 
 The demo requires a SingleStore Kai™ for MongoDB endpoint to run against since
 it needs the $dotProduct operator. To create an endpoint for SingleStore Kai™
-for MongoDB, [get started here](Singlestore.com/cloud–trial/Kai).
+for MongoDB, [get started here](https://singlestore.com/cloud–trial/kai).
 
 The shell scripts in this demo require Linux/Bash (they were run on Debian
 Bullseye).
