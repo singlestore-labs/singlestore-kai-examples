@@ -43,7 +43,7 @@ start();
 const app = express();
 app.set("json spaces", 2);
 
-// Use SingleStore Kai for MongoDB's $dotProduct extension to the MongoDB
+// Use SingleStore Kai's $dotProduct extension to the MongoDB
 // API to power an app with semantic search
 app.use("/search", async function (req: any, res: any) {
   const q = req.query["q"];
