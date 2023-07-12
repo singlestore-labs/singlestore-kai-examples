@@ -1,6 +1,6 @@
-# SingleStore Kai™ for MongoDB Examples
+# SingleStore Kai™ Examples
 
-This repository contains examples for using SingleStore Kai™ for MongoDB.
+This repository contains examples for using SingleStore Kai™.
 
 ## Simple Benchmark
 
