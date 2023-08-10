@@ -1,0 +1,31 @@
+{
+  "_id": "64ca9bec36986eb87b4f1ce3",
+  "authorKey": "/authors/OL2733294A",
+  "covers": [1020698, 984634, 4878577, 765046],
+  "stars": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:31:50.215736"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "Luffy and crew prepare to risk their lives against their most ruthless opponent yet--all for the sake of Nami, who has been working for Saw-Tooth Arlong all along."
+  },
+  "key": "/works/OL8215651W",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-12-25T05:23:04.475291"
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "subject_places": ["Japan"],
+  "subjects": [
+    "series:one_piece",
+    "Pirates",
+    "Comic books, strips",
+    "Graphic novels",
+    "Comics & graphic novels, manga, fantasy"
+  ],
+  "subtitle": "OK, Let's STAND UP !",
+  "title": "ONE PIECE 10"
+}
