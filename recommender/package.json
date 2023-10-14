@@ -1,0 +1,41 @@
+{
+  "name": "recommender",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "load-products": "ts-node data/load/load-products.ts",
+    "load-orders": "ts-node data/load/load-orders.ts",
+    "load-analytics": "ts-node data/load/load-analytics.ts"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@heroicons/react": "^2.0.18",
+    "@tailwindcss/forms": "^0.5.4",
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/react": "18.2.18",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12",
+    "mongodb": "^5.7.0",
+    "next": "13.4.12",
+    "openai": "^3.3.0",
+    "postcss": "8.4.27",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "sharp": "^0.32.6",
+    "styled-components": "^6.0.7",
+    "tailwindcss": "3.3.3",
+    "ts-node": "^10.9.1",
+    "typechat": "^0.0.10",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.8"
+  }
+}
